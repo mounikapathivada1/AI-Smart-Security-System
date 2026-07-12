@@ -1,0 +1,18 @@
+# AI Smart Security Alarm System
+
+This project is an AI-based Smart Security Alarm System using Raspberry Pi.
+
+## Features
+- Motion detection
+- AI object detection
+- Buzzer alarm
+- Camera monitoring
+
+## Hardware
+- Raspberry Pi 4
+- USB Camera
+- Buzzer
+- Jumper wires
+
+## Author
+Mounika Pathivada
